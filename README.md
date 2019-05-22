@@ -4,8 +4,7 @@
 R and GIT basics, tidy coding
 
 <!-- TODO: Give a brief description of what your project is about -->
-
-# Explanation of project folders and files
+Just something
 
 This part of the README details how this research directory is structured, how files should
 be run, and what the different files do. The layout and setup of this project
